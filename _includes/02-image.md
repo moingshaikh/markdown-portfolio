@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![British Shorthair Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Britishblue.jpg/372px-Britishblue.jpg)
